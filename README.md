@@ -1,4 +1,4 @@
-![Pipeline Status](https://gitlab.crja72.ru/django/2024/autumn/course/projects/team-4/badges/main/pipeline.svg)
+[![Django Tests Status](https://github.com/12447698/Kanhub/actions/workflows/django.yml/badge.svg)](https://github.com/124476/Kanhub/actions/workflows/django.yml/badge.svg)
 
 # Kanhub - сайт для управления задачами
 
